@@ -1,0 +1,68 @@
+/* Basic Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  body {
+    font-family: 'Arial', sans-serif;
+    line-height: 1.6;
+    padding: 20px;
+    background-color: #f4f4f4;
+  }
+  
+  .header {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .profile-img {
+    width: 150px;
+    height: auto;
+    border-radius: 50%;
+  }
+  
+  h1 {
+    margin-top: 10px;
+    text-align: center;
+    background-color: aqua;
+    border-radius: 10px;
+    color: #f4f4f4;
+
+  }
+  h2{
+      text-align: center;
+      background-color: aqua;
+      border-radius: 10px;
+      color: #f4f4f4;
+  
+  }
+
+  p{text-align: center;
+  }
+  
+  .bio, .projects {
+    margin-bottom: 20px;
+  }
+  
+  ul{
+    text-align: center;
+  }
+  a {
+    color: #333;
+    text-decoration:solid;
+
+  }
+  a:hover{
+    color: aqua;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  footer {
+    text-align: center;
+    margin-top: 20px;
+  }
